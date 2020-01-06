@@ -1,0 +1,5 @@
+ INFO: Utilities.RUtilities.fireDeleteRequest: (Line-42) at 15:04:20 ->  ===  delete request fired with url http://dummy.restapiexample.com/api/v1/delete urlParameters /1
+ INFO: Utilities.RUtilities.fireGetRequest: (Line-17) at 15:04:22 ->  ===  Get request fired with url http://dummy.restapiexample.com/api/v1/employee/ urlParameters /1
+ INFO: Utilities.RUtilities.firePostRequest: (Line-24) at 15:04:23 ->  ===  Post request fired with url http://dummy.restapiexample.com/api/v1 urlParameters /create
+ INFO: Utilities.RUtilities.firePostRequest: (Line-31) at 15:04:23 ->   post request headers key Content-Type :: value application/json
+ INFO: Utilities.RUtilities.firePostRequest: (Line-35) at 15:04:23 ->   post request body 

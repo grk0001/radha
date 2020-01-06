@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.813 sec <<< FAILURE!
+getExample(Test1)  Time elapsed: 0.78 sec  <<< FAILURE!
+java.lang.AssertionError: expected [101] but found [200]
+	at org.testng.Assert.fail(Assert.java:97)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:839)
+	at org.testng.Assert.assertEquals(Assert.java:849)
+	at Test1.getExample(Test1.java:16)
+
